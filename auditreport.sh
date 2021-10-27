@@ -1,5 +1,5 @@
 #!/bin/bash
-writepath="/var/log/remote/ultradns.neustar/"
+writepath="/var/log/remote/ultradns.neustar"
 today=$(date +"%Y%m%d")
 username="apiuser"
 password="apipass"
